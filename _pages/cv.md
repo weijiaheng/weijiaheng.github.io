@@ -41,7 +41,7 @@ AISTATS -- International Conference on Artificial Intelligence and Statistics, 2
 
 5.	Incentives for Federated Learning: a Hypothesis Elicitation Approach     
 Yang Liu and **Jiaheng Wei**      
-ICML workshop -- Workshop on Incentives in Machine Learning in International Conference on Machine Learning, 2020     
+ICML workshop -- Workshop on Incentives in Machine Learning, 2020           
 [paper](https://arxiv.org/abs/2007.10596)     
 
 **Other Papers**
