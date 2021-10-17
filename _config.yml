@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Like I Would."
+title                    : "Home."
 title_separator          : "-"
 name                     : &name "Jiaheng Wei"
 description              : &description "PhD student at UC Santa Cruz"
@@ -94,15 +94,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/jiaheng.wei.9/"
+  facebook         : "jiaheng.wei.9"
   foursquare       :
   github           : "weijiaheng"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/jiaheng.wei.9/"
+  instagram        : "jiaheng.wei.9"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jiahengwei"
+  linkedin         : "jiahengwei"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
