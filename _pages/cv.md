@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, University of California, Santa Cruz, 2019--Now
-* M.S. in Data Science, Brown University, 2018
+* M.S. in Data Science, Brown University, 2018  (Graduate in advance)
 * B.S. in Honors Science (Mathematics and Applied Mathematics), Xi'an Jiaotong University, 2014
 * B.S. in Honors Youth (Gifted Young), Xi'an Jiaotong University, 2012
 
@@ -20,19 +20,20 @@ Publications and Preprints
 (*: denotes equal contributions)
 ======
 **Robust Learning from Human-Generated Data (Weakly-Supervised Learning)**
-1.	When Optimizing f-divergence is Robust with Label Noise  
-**Jiaheng Wei** and Yang Liu
-ICLR -- International Conference on Learning Representations, 2021
+1.	When Optimizing f-divergence is Robust with Label Noise    
+**Jiaheng Wei** and Yang Liu 
+ICLR -- International Conference on Learning Representations, 2021 
 [paper](https://openreview.net/forum?id=WesiCoRVQ15)  [code](https://github.com/weijiaheng/Robust-f-divergence-measures)
 
-2.	Understanding Generalized Label Smoothing when Learning with Noisy Labels
+2.	Understanding Generalized Label Smoothing when Learning with Noisy Labels  
 **Jiaheng Wei**, Hangyu Liu, Tongliang Liu, Gang Niu, Yang Liu
-Under Review
+
+Preprint
 [paper](https://arxiv.org/abs/2106.04149)  
 
 3.	Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations
 **Jiaheng Wei***, Zhaowei Zhu*, Hao Cheng, Tongliang Liu, Gang Niu, Yang Liu
-Under Review
+Preprint
 
 **Incentives in Machine Learning**
 4.	Sample Elicitation

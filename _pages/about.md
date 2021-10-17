@@ -16,10 +16,13 @@ Previously, I received my Master of Science degree ([Data Science](https://www.b
 
 News
 ======
-I will give a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML2021.
-One paper accepted to ICLR 2021.
-One paper accepted to AISTATS 2021.
-One paper accepted to ICML workshop (Incentives in Machine Learning)
+[2021. 11] I will give a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML2021.
+
+[2021. 02] One paper accepted to AISTATS 2021.
+
+[2021. 01] One paper accepted to ICLR 2021.
+
+[2020. 05] One paper accepted to ICML workshop (Incentives in Machine Learning)
 
 
 Publications and Preprints
@@ -51,7 +54,7 @@ Yang Liu and **Jiaheng Wei**
 ICML workshop -- Workshop on Incentives in Machine Learning in International Conference on Machine Learning, 2020
 [paper](https://arxiv.org/abs/2007.10596)
 
-Other Papers
+**Other Papers**
 6.	PeerGAN: Generative Adversarial Networks with a Competitive Peer Discriminator
 **Jiaheng Wei***, Minghao Liu*, Jiahao Luo, Andrew Zhu, Qiutong Li, James Davis, Yang Liu
 [paper](https://arxiv.org/abs/2101.07524)
