@@ -39,12 +39,12 @@ Preprint
 [paper](https://arxiv.org/abs/2106.04149)  
 
 3.	Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations           
-**Jiaheng Wei** *, Zhaowei Zhu*, Hao Cheng, Tongliang Liu, Gang Niu, Yang Liu           
+**Jiaheng Wei\***, Zhaowei Zhu\*, Hao Cheng, Tongliang Liu, Gang Niu, Yang Liu           
 Preprint     
 
 **Incentives in Machine Learning**
 4.	Sample Elicitation           
-**Jiaheng Wei** *, Zuyue Fu*, Yang Liu, Xingyu Li, Zhuoran Yang, Zhaoran Wang           
+**Jiaheng Wei\***, Zuyue Fu*, Yang Liu, Xingyu Li, Zhuoran Yang, Zhaoran Wang           
 AISTATS -- International Conference on Artificial Intelligence and Statistics, 2021           
 [paper](https://proceedings.mlr.press/v130/wei21c)  [code](https://github.com/weijiaheng/Credible-sample-elicitation)
 
@@ -55,14 +55,14 @@ ICML workshop -- Workshop on Incentives in Machine Learning, 2020
 
 **Other Papers**
 6.	PeerGAN: Generative Adversarial Networks with a Competitive Peer Discriminator           
-**Jiaheng Wei** *, Minghao Liu*, Jiahao Luo, Andrew Zhu, Qiutong Li, James Davis, Yang Liu           
+**Jiaheng Wei\***, Minghao Liu\*, Jiahao Luo, Andrew Zhu, Qiutong Li, James Davis, Yang Liu           
 [paper](https://arxiv.org/abs/2101.07524)           
 
 7.	Induced Domain Adaptation           
 Yang Liu, Yatong Chen and **Jiaheng Wei**           
 [paper](https://arxiv.org/abs/2107.05911)           
 
-(*: denotes equal contributions)  
+(\*: denotes equal contributions)  
 
 Conference Review
 ======
