@@ -21,7 +21,7 @@ Code
 
 * We are maintain a curated list of most recent papers and codes in Learning with Noisy Labels. Check [here](https://github.com/weijiaheng/Advances-in-Label-Noise-Learning)!
 
-* **CIFAR-N** dataset: dataloader and starter code to learn from real-world noisy labeled CIFAR datasets. Check [here](https://github.com/zwzhu-d/cifar-10-100n)!
+* **CIFAR-N** dataset: dataloader and starter code to learn from real-world noisy labeled CIFAR datasets. Check [here](https://github.com/zwzhu-d/cifar-10-100n)! And the dataset website is available [here](http://noisylabels.com/).
 
 * Implementation of multi-class [Peer-Loss](https://arxiv.org/abs/1910.03231) functions. Check [here](https://github.com/weijiaheng/Multi-class-Peer-Loss-functions)!
 
