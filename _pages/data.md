@@ -13,7 +13,7 @@ Data
 ======
 **CIFAR-N**
 
-* We provide CIFAR-10, CIFAR-100 train images with human annotations obtained from Amazon Mechanical Turk. The dataset and leaderboard will be published recently! And we are looking forward to contributors on the leaderboard of CIFAR-N datasets.
+* We provide CIFAR-10, CIFAR-100 train images with human annotations obtained from Amazon Mechanical Turk. The dataset and leaderboard are public avaialble [here](http://noisylabels.com/)! And we are looking forward to contributors on the leaderboard of CIFAR-N datasets.
 
 Code
 ======
