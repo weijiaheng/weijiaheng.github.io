@@ -202,11 +202,17 @@
 .ai-springer-square:before {
   content: "\e859";
 }
-.ai-zotero:before {
+.ai-semantic-scholar:before {
   content: "\e860";
 }
-.ai-zotero-square:before {
+.ai-semantic-scholar-square:before {
   content: "\e861";
+}
+.ai-zotero:before {
+  content: "\e862";
+}
+.ai-zotero-square:before {
+  content: "\e863";
 }
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
 .ai-lg {
