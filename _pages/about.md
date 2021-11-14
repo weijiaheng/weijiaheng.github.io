@@ -16,6 +16,8 @@ Previously, I received my Master of Science degree ([Data Science](https://www.b
 
 News
 ======
+[2021. 11] [noisylabels.com](http://www.noisylabels.com/) is online! We collected and published re-annotated versions of the CIFAR-10 and CIFAR-100 data which contains real-world human annotation errors. We show how these noise patterns deviate from the classically assumed ones and what the new challenges are. We hope these datasets will facilitate the benchmarking and development of weakly supervised learning solutions..
+
 [2021. 11] I will give a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML2021.
 
 [2021. 02] One paper accepted to AISTATS 2021.
@@ -25,8 +27,10 @@ News
 [2020. 05] One paper accepted to ICML workshop (Incentives in Machine Learning)
 
 
-Publications and Preprints
+Publications and Preprints 
 ======
+[Semantic Scholoar](https://www.semanticscholar.org/author/Jiaheng-Wei/103410241) & [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4mzzRmyicjKgyJuE_WLzx_tpVQntZMEAN1HK6chxXKFENXHN68EgZTimHO8MrddNz0k99myPtWpGaSGugghQJktT4mVvqGV33rBg7DnSMTjo5630I&user=gfB8UaIAAAAJ)
+
 **Robust Learning from Human-Generated Data (Weakly-Supervised Learning)**
 1.  When Optimizing f-divergence is Robust with Label Noise                 
 **Jiaheng Wei** and Yang Liu            

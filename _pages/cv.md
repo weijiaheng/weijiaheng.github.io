@@ -18,6 +18,9 @@ Education
 
 Publications and Preprints
 ======
+======
+[Semantic Scholoar](https://www.semanticscholar.org/author/Jiaheng-Wei/103410241) & [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4mzzRmyicjKgyJuE_WLzx_tpVQntZMEAN1HK6chxXKFENXHN68EgZTimHO8MrddNz0k99myPtWpGaSGugghQJktT4mVvqGV33rBg7DnSMTjo5630I&user=gfB8UaIAAAAJ)
+
 **Robust Learning from Human-Generated Data (Weakly-Supervised Learning)**
 1.  When Optimizing f-divergence is Robust with Label Noise           
 **Jiaheng Wei** and Yang Liu      
