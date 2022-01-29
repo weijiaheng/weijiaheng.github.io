@@ -16,26 +16,29 @@ Education
 * B.S. in Honors Science (Mathematics and Applied Mathematics), Xi'an Jiaotong University, 2014
 * B.S. in Honors Youth (Gifted Young), Xi'an Jiaotong University, 2012
 
-Publications and Preprints
+Work Experience
 ======
+Student Researcher, Google Mountain View (since February, 2022)
+
+Publications and Preprints
 ======
 [Semantic Scholoar](https://www.semanticscholar.org/author/Jiaheng-Wei/103410241) & [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4mzzRmyicjKgyJuE_WLzx_tpVQntZMEAN1HK6chxXKFENXHN68EgZTimHO8MrddNz0k99myPtWpGaSGugghQJktT4mVvqGV33rBg7DnSMTjo5630I&user=gfB8UaIAAAAJ)
 
 **Robust Learning from Human-Generated Data (Weakly-Supervised Learning)**
-1.  When Optimizing f-divergence is Robust with Label Noise           
+1.	Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations     
+**Jiaheng Wei\***, Zhaowei Zhu\*, Hao Cheng, Tongliang Liu, Gang Niu, Yang Liu     
+ICLR -- International Conference on Learning Representations, 2022           
+[paper](https://openreview.net/forum?id=TBWA6PLJZQm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions))  [data](http://noisylabels.com/) 
+
+2.  When Optimizing f-divergence is Robust with Label Noise           
 **Jiaheng Wei** and Yang Liu      
 ICLR -- International Conference on Learning Representations, 2021         
 [paper](https://openreview.net/forum?id=WesiCoRVQ15)  [code](https://github.com/weijiaheng/Robust-f-divergence-measures)
 
-2.  Understanding Generalized Label Smoothing when Learning with Noisy Labels       
+3.  Understanding Generalized Label Smoothing when Learning with Noisy Labels       
 **Jiaheng Wei**, Hangyu Liu, Tongliang Liu, Gang Niu, Yang Liu         
-Preprint           
-[paper](https://arxiv.org/abs/2106.04149)  
-
-3.	Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations     
-**Jiaheng Wei\***, Zhaowei Zhu\*, Hao Cheng, Tongliang Liu, Gang Niu, Yang Liu     
-Preprint           
-[paper](https://arxiv.org/abs/2110.12088)  [data](http://noisylabels.com/)     
+(Under Review)           
+[paper](https://arxiv.org/abs/2106.04149)      
 
 **Incentives in Machine Learning**
 4.	Sample Elicitation     
@@ -58,14 +61,14 @@ Yang Liu, Yatong Chen and **Jiaheng Wei**
 [paper](https://arxiv.org/abs/2107.05911)     
 
 (*: denotes equal contributions)     
-  
+
 Talks
 ======
 * **Nov. 17, 2021** I will provide a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML2021. 
   
 Conference Reviews
 ======
-Reviewer at AAAI 2020, AISTATS 2021, CVPR 2021, ICCV 2021, NeurIPS 2021, ICLR 2022.
+Reviewer at AAAI 2020, AISTATS 2021, CVPR 2021, ICCV 2021, NeurIPS 2021, ICLR 2022, CVPR 2022, ICML 2022.
 
 Teaching Experience
 ======

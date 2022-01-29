@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 3rd-year Computer Science and Engineering Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/) advised by Prof. [Yang Liu](http://www.yliuu.com/)!
+I am currently a 3rd-year Computer Science and Engineering Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/), fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)!
 
 My research interests are robust learning with imperfect data (weakly supervised learning), incentive design for data collection, adversarial machine learning.
 
@@ -16,6 +16,10 @@ Previously, I received my Master of Science degree ([Data Science](https://www.b
 
 News
 ======
+[2022. 02] I start my journey at Google Brain (student researcher), fortunately advised by [Abhishek Kumar](http://www.abhishek.umiacs.io/index.html) and [Ehsan Amid](https://sites.google.com/view/eamid/)!
+
+[2022. 01] One paper accepted to ICLR 2022.
+
 [2021. 12] I become a PhD candidate (with Honors).
 
 [2021. 11] [noisylabels.com](http://www.noisylabels.com/) is online! We collected and published re-annotated versions of the CIFAR-10 and CIFAR-100 data which contains real-world human annotation errors. 
@@ -34,20 +38,20 @@ Publications and Preprints
 [Semantic Scholoar](https://www.semanticscholar.org/author/Jiaheng-Wei/103410241) & [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4mzzRmyicjKgyJuE_WLzx_tpVQntZMEAN1HK6chxXKFENXHN68EgZTimHO8MrddNz0k99myPtWpGaSGugghQJktT4mVvqGV33rBg7DnSMTjo5630I&user=gfB8UaIAAAAJ)
 
 **Robust Learning from Human-Generated Data (Weakly-Supervised Learning)**
-1.  When Optimizing f-divergence is Robust with Label Noise                 
+1.	Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations           
+**Jiaheng Wei\***, Zhaowei Zhu\*, Hao Cheng, Tongliang Liu, Gang Niu, Yang Liu           
+ICLR -- International Conference on Learning Representations, 2022           
+[paper](https://openreview.net/forum?id=TBWA6PLJZQm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions))  [data](http://noisylabels.com/)       
+
+2.  When Optimizing f-divergence is Robust with Label Noise                 
 **Jiaheng Wei** and Yang Liu            
 ICLR -- International Conference on Learning Representations, 2021               
 [paper](https://openreview.net/forum?id=WesiCoRVQ15)  [code](https://github.com/weijiaheng/Robust-f-divergence-measures)
 
-2.  Understanding Generalized Label Smoothing when Learning with Noisy Labels             
+3.  Understanding Generalized Label Smoothing when Learning with Noisy Labels             
 **Jiaheng Wei**, Hangyu Liu, Tongliang Liu, Gang Niu, Yang Liu               
-Preprint                 
+(Under Review)                 
 [paper](https://arxiv.org/abs/2106.04149)  
-
-3.	Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations           
-**Jiaheng Wei\***, Zhaowei Zhu\*, Hao Cheng, Tongliang Liu, Gang Niu, Yang Liu           
-Preprint           
-[paper](https://arxiv.org/abs/2110.12088)  [data](http://noisylabels.com/)       
 
 **Incentives in Machine Learning**
 4.	Sample Elicitation           
@@ -73,6 +77,6 @@ Yang Liu, Yatong Chen and **Jiaheng Wei**
 
 Conference Review
 ======
-Reviewer at AAAI 2020, AISTATS 2021, CVPR 2021, ICCV 2021, NeurIPS 2021, ICLR 2022, CVPR 2022.
+Reviewer at AAAI 2020, AISTATS 2021, CVPR 2021, ICCV 2021, NeurIPS 2021, ICLR 2022, CVPR 2022, ICML 2022.
 
 

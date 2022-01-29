@@ -13,13 +13,13 @@ Data
 ======
 **CIFAR-N**
 
-* We provide CIFAR-10, CIFAR-100 train images with human annotations obtained from Amazon Mechanical Turk. The dataset and leaderboard are public avaialble [here](http://noisylabels.com/)! And we are looking forward to contributors on the leaderboard of CIFAR-N datasets.
+* We provide CIFAR-10, CIFAR-100 train images with human annotations obtained from Amazon Mechanical Turk. The dataset and leaderboard are public avaialble [here](http://noisylabels.com/)! And we are looking forward to contributors (benchmarking efforts) on the leaderboard of CIFAR-N datasets.
 
 Code
 ======
 **Weakly-Supervised Learning** (learning with noisy labels)
 
-* We are maintain a curated list of most recent papers and codes in Learning with Noisy Labels. Check [here](https://github.com/weijiaheng/Advances-in-Label-Noise-Learning)!
+* We are maintaining a curated list of most recent papers and codes in Learning with Noisy Labels. Check [here](https://github.com/weijiaheng/Advances-in-Label-Noise-Learning)!
 
 * **CIFAR-N** dataset: dataloader and starter code to learn from real-world noisy labeled CIFAR datasets. Check [here](https://github.com/zwzhu-d/cifar-10-100n)! And the dataset website is available [here](http://noisylabels.com/).
 
