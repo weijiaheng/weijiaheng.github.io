@@ -24,7 +24,7 @@ News
 
 [2021. 11] [noisylabels.com](http://www.noisylabels.com/) is online! We collected and published re-annotated versions of the CIFAR-10 and CIFAR-100 data which contains real-world human annotation errors. 
 
-[2021. 11] I will give a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML2021.
+[2021. 11] I gave a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML2021.
 
 [2021. 02] One paper accepted to AISTATS 2021.
 

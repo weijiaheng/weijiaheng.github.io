@@ -64,7 +64,7 @@ Yang Liu, Yatong Chen and **Jiaheng Wei**
 
 Talks
 ======
-* **Nov. 17, 2021** I will provide a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML2021. 
+* **Nov. 17, 2021** I gave a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML2021. 
   
 Conference Reviews
 ======
