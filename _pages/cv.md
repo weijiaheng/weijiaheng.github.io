@@ -35,8 +35,8 @@ ICLR -- International Conference on Learning Representations, 2022
 ICLR -- International Conference on Learning Representations, 2021         
 [paper](https://openreview.net/forum?id=WesiCoRVQ15)  [code](https://github.com/weijiaheng/Robust-f-divergence-measures)
 
-3.  Understanding Generalized Label Smoothing when Learning with Noisy Labels       
-**Jiaheng Wei**, Hangyu Liu, Tongliang Liu, Gang Niu, Yang Liu         
+3.  To Smooth or Not? When Label Smoothing Meets Noisy Labels       
+**Jiaheng Wei**, Hangyu Liu, Tongliang Liu, Gang Niu, Masashi Sugiyama, Yang Liu         
 (Under Review)           
 [paper](https://arxiv.org/abs/2106.04149)      
 
