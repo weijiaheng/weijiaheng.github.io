@@ -38,29 +38,34 @@ ICLR -- International Conference on Learning Representations, 2021
 3.  To Smooth or Not? When Label Smoothing Meets Noisy Labels       
 **Jiaheng Wei**, Hangyu Liu, Tongliang Liu, Gang Niu, Masashi Sugiyama, Yang Liu         
 (Under Review)           
-[paper](https://arxiv.org/abs/2106.04149)      
+[paper](https://arxiv.org/abs/2106.04149)  
+
+4.  Disparate Treatment of Sub-Populations is Beneficial When Learning with Noisily Labeled Data             
+**Jiaheng Wei**, Zhaowei Zhu, Yang Liu               
+(Under Review)  
 
 **Incentives in Machine Learning**
-4.	Sample Elicitation     
-**Jiaheng Wei\***, Zuyue Fu\*, Yang Liu, Xingyu Li, Zhuoran Yang, Zhaoran Wang     
-AISTATS -- International Conference on Artificial Intelligence and Statistics, 2021     
+5.	Sample Elicitation           
+**Jiaheng Wei\***, Zuyue Fu*, Yang Liu, Xingyu Li, Zhuoran Yang, Zhaoran Wang           
+AISTATS -- International Conference on Artificial Intelligence and Statistics, 2021           
 [paper](https://proceedings.mlr.press/v130/wei21c)  [code](https://github.com/weijiaheng/Credible-sample-elicitation)
 
-5.	Incentives for Federated Learning: a Hypothesis Elicitation Approach     
-Yang Liu and **Jiaheng Wei**      
-ICML workshop -- Workshop on Incentives in Machine Learning, 2020           
+6.	Incentives for Federated Learning: a Hypothesis Elicitation Approach           
+Yang Liu and **Jiaheng Wei**            
+ICML workshop -- Workshop on Incentives in Machine Learning, 2020               
 [paper](https://arxiv.org/abs/2007.10596)     
 
 **Other Papers**
-6.	PeerGAN: Generative Adversarial Networks with a Competitive Peer Discriminator     
-**Jiaheng Wei\***, Minghao Liu\*, Jiahao Luo, Andrew Zhu, Qiutong Li, James Davis, Yang Liu     
-[paper](https://arxiv.org/abs/2101.07524)     
+7.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
+**Jiaheng Wei\***, Minghao Liu\*, Jiahao Luo, Andrew Zhu, James Davis, Yang Liu               
+(Under Review)            
+[paper](https://arxiv.org/abs/2101.07524)           
 
-7.	Induced Domain Adaptation     
-Yang Liu, Yatong Chen and **Jiaheng Wei**     
-[paper](https://arxiv.org/abs/2107.05911)     
+8.	Induced Domain Adaptation           
+Yang Liu, Yatong Chen and **Jiaheng Wei**           
+[paper](https://arxiv.org/abs/2107.05911)           
 
-(*: denotes equal contributions)     
+(\*: denotes equal contributions)       
 
 Talks
 ======

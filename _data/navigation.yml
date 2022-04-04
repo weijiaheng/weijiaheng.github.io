@@ -14,11 +14,15 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-  - title: "Code and Data"
-    url: /data/  
+  - title: "Publication"
+    url: /pub/  
 
   - title: "CV"
     url: /cv/
+
+
+  - title: "Code and Data"
+    url: /data/  
     
   # - title: "Guide"
   #   url: /markdown/
