@@ -17,7 +17,7 @@ Publications and Preprints
 **Robust Learning from Human-Generated Data (Weakly-Supervised Learning)**
 1.  To Smooth or Not? When Label Smoothing Meets Noisy Labels             
 **Jiaheng Wei**, Hangyu Liu, Tongliang Liu, Gang Niu, Masashi Sugiyama, Yang Liu               
-ICLR (Long Presentation) -- International Conference on Machine Learning, 2022                
+ICML (Long Presentation) -- International Conference on Machine Learning, 2022                
 [[paper]](https://arxiv.org/abs/2106.04149)  
 
 2.	Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations           
