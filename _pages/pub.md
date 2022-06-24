@@ -30,28 +30,32 @@ ICLR -- International Conference on Learning Representations, 2022
 ICLR -- International Conference on Learning Representations, 2021               
 [[paper]](https://openreview.net/forum?id=WesiCoRVQ15)  [[code]](https://github.com/weijiaheng/Robust-f-divergence-measures)
 
-4.  Disparate Treatment of Sub-Populations is Beneficial When Learning with Noisily Labeled Data             
+4.  To Aggregate or Not? Learning with Separate Noisy Labels             
+**Jiaheng Wei\***, Zhaowei Zhu\*, Tianyi Luo, Ehsan Amid, Abhishek Kumar, Yang Liu               
+(Under Review) [[paper]](https://arxiv.org/abs/2206.07181) 
+
+5.  Disparate Treatment of Sub-Populations is Beneficial When Learning with Noisily Labeled Data             
 **Jiaheng Wei**, Zhaowei Zhu, Yang Liu               
 (Under Review)  
 
 **Incentives in Machine Learning**
-5.	Sample Elicitation           
+1.	Sample Elicitation           
 **Jiaheng Wei\***, Zuyue Fu*, Yang Liu, Xingyu Li, Zhuoran Yang, Zhaoran Wang           
 AISTATS -- International Conference on Artificial Intelligence and Statistics, 2021           
 [[paper]](https://proceedings.mlr.press/v130/wei21c)  [[code]](https://github.com/weijiaheng/Credible-sample-elicitation)
 
-6.	Incentives for Federated Learning: a Hypothesis Elicitation Approach           
+2.	Incentives for Federated Learning: a Hypothesis Elicitation Approach           
 Yang Liu and **Jiaheng Wei**            
 ICML workshop -- Workshop on Incentives in Machine Learning, 2020               
 [[paper]](https://arxiv.org/abs/2007.10596)     
 
 **Other Papers**
-7.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
+1.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
 **Jiaheng Wei\***, Minghao Liu\*, Jiahao Luo, Andrew Zhu, James Davis, Yang Liu               
 (Under Review)            
 [[paper]](https://arxiv.org/abs/2101.07524)           
 
-8.	Induced Domain Adaptation           
+2.	Induced Domain Adaptation           
 Yang Liu, Yatong Chen and **Jiaheng Wei**           
 [[paper]](https://arxiv.org/abs/2107.05911)           
 

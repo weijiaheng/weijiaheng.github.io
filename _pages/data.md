@@ -33,6 +33,8 @@ Code
 
 * Implementation of the paper [Robust-f-Divergence](https://openreview.net/forum?id=WesiCoRVQ15) [[Code]](https://github.com/weijiaheng/Robust-f-divergence-measures).
 
+* Implementation of the paper [Negative-Label-Smoothing](https://arxiv.org/abs/2106.04149) [[Code]](https://github.com/UCSC-REAL/negative-label-smoothing).
+
 **Incentives in Machine Learning**
 
 * Implementation of the paper [Sample-Elicitation](https://proceedings.mlr.press/v130/wei21c) [[Code]](https://github.com/weijiaheng/Credible-sample-elicitation).
