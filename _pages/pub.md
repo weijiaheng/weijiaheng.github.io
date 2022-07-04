@@ -52,7 +52,7 @@ ICML workshop -- Workshop on Incentives in Machine Learning, 2020
 **Other Papers**
 1.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
 **Jiaheng Wei\***, Minghao Liu\*, Jiahao Luo, Andrew Zhu, James Davis, Yang Liu               
-(Under Review)            
+ECCV -- European Conference on Computer Vision, 2022            
 [[paper]](https://arxiv.org/abs/2101.07524)           
 
 2.	Induced Domain Adaptation           

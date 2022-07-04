@@ -16,6 +16,8 @@ Previously, I received my Master of Science degree ([Data Science](https://www.b
 
 News
 ======
+[2022. 06] One paper accepted to ECCV 2022.
+
 [2022. 05] One paper accepted to ICML 2022 (Long Presentation, 2.1%).
 
 [2022. 04] Call for participation: 1st Learning and Mining with Noisy Labels Challenge at IJCAI-ECAI 2022 [[link]](http://ucsc-real.soe.ucsc.edu:1995/).

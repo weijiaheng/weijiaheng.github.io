@@ -51,6 +51,12 @@ Yang Liu and **Jiaheng Wei**
 ICML workshop -- Workshop on Incentives in Machine Learning, 2020               
 [[paper]](https://arxiv.org/abs/2007.10596)     
 
+**Generative Modeling**
+6.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
+**Jiaheng Wei\***, Minghao Liu\*, Jiahao Luo, Andrew Zhu, James Davis, Yang Liu               
+ECCV -- European Conference on Computer Vision, 2022            
+[[paper]](https://arxiv.org/abs/2101.07524)
+
 (\*: denotes equal contributions)       
 
 Talks
