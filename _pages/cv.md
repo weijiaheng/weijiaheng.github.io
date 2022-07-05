@@ -63,7 +63,7 @@ Talks
 ======
 * **Jun, 2022** I gave an invited talk at [[AI-Time]](http://www.aitime.cn/). 
 
-* **Nov, 2021** I gave a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML2021. 
+* **Nov, 2021** I gave a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML 2021. 
   
 Conference Reviews
 ======
