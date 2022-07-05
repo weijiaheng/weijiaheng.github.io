@@ -77,6 +77,7 @@ Teaching Experience
 
 Honor and Awards
 ======
+* Travel Grant from International Conference on Machine Learning (ICML).  (2022)
 * The First Prize of National Mount Everest Programme Scholarship in 2016-2017 Academic Year.  (2017)
 * The Second Prize of National Mount Everest Programme Scholarship in 2015-2016 Academic Year.  (2016)
 * The Second Prize in the 7th Chinese Mathematical Competitions.  (2016)
