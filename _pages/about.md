@@ -18,7 +18,7 @@ News
 ======
 [2022. 07] One paper accepted to ECCV 2022.
 
-[2022. 06] Invited talk from [[AI-Time]](http://www.aitime.cn/).
+[2022. 06] Invited talk from [AI-Time](http://www.aitime.cn/).
 
 [2022. 05] One paper accepted to ICML 2022 (Long Presentation, 2.1%).
 

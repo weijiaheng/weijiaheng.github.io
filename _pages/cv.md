@@ -61,7 +61,7 @@ ECCV -- European Conference on Computer Vision, 2022
 
 Talks
 ======
-* **Jun, 2022** I gave an invited talk at [[AI-Time]](http://www.aitime.cn/). 
+* **Jun, 2022** I gave an invited talk at [AI-Time](http://www.aitime.cn/). 
 
 * **Nov, 2021** I gave a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML 2021. 
   
