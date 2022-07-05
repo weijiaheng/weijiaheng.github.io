@@ -61,7 +61,9 @@ ECCV -- European Conference on Computer Vision, 2022
 
 Talks
 ======
-* **Nov. 17, 2021** I gave a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML2021. 
+* **Jun, 2022** I gave an invited talk at [[AI-Time]](http://www.aitime.cn/). 
+
+* **Nov, 2021** I gave a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML2021. 
   
 Conference Reviews
 ======
@@ -75,8 +77,8 @@ Teaching Experience
 
 Honor and Awards
 ======
-* The First Prize of National Zhufeng Programme Scholarship in 2016-2017 Academic Year.  (2017)
-* The Second Prize of National Zhufeng Programme Scholarship in 2015-2016 Academic Year.  (2016)
+* The First Prize of National Mount Everest Programme Scholarship in 2016-2017 Academic Year.  (2017)
+* The Second Prize of National Mount Everest Programme Scholarship in 2015-2016 Academic Year.  (2016)
 * The Second Prize in the 7th Chinese Mathematical Competitions.  (2016)
 * Xi’an Jiaotong Siyuan Scholarship in 2015-2016 Academic Year.  (2015)
 * Xi’an Jiaotong Siyuan Scholarship in 2014-2015 Academic Year.  (2014)

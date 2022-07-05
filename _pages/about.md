@@ -16,7 +16,9 @@ Previously, I received my Master of Science degree ([Data Science](https://www.b
 
 News
 ======
-[2022. 06] One paper accepted to ECCV 2022.
+[2022. 07] One paper accepted to ECCV 2022.
+
+[2022. 06] Invited talk from [[AI-Time]](http://www.aitime.cn/).
 
 [2022. 05] One paper accepted to ICML 2022 (Long Presentation, 2.1%).
 
@@ -28,15 +30,13 @@ News
 
 [2021. 12] I become a PhD candidate (with Honors).
 
-[2021. 11] [noisylabels.com](http://www.noisylabels.com/) is online! We collected and published re-annotated versions of the CIFAR-10 and CIFAR-100 data which contains real-world human annotation errors. 
+[2021. 11] [noisylabels.com](http://www.noisylabels.com/) is online! We collected and published re-annotated versions of the CIFAR-10 and CIFAR-100 data which contain real-world human annotation errors. 
 
-[2021. 11] I gave a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML2021.
+[2021. 11] I gave a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML 2021.
 
 [2021. 02] One paper accepted to AISTATS 2021.
 
 [2021. 01] One paper accepted to ICLR 2021.
-
-[2020. 05] One paper accepted to ICML workshop (Incentives in Machine Learning)
 
 Conference Review
 ======
