@@ -16,6 +16,10 @@ Previously, I received my Master of Science degree ([Data Science](https://www.b
 
 News
 ======
+[2022. 08] Invited talk from [AI-Time](http://www.aitime.cn/).
+
+[2022. 07] Oral presentation at ICML 2022 (Deep Learning: Robustness).
+
 [2022. 07] One paper accepted to ECCV 2022.
 
 [2022. 06] Invited talk from [AI-Time](http://www.aitime.cn/).
