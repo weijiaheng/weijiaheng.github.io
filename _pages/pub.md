@@ -55,8 +55,8 @@ ICML workshop -- Workshop on Incentives in Machine Learning, 2020
 ECCV -- European Conference on Computer Vision, 2022            
 [[paper]](https://arxiv.org/abs/2101.07524)           
 
-2.	Induced Domain Adaptation           
-Yang Liu, Yatong Chen and **Jiaheng Wei**           
-[[paper]](https://arxiv.org/abs/2107.05911)           
+2.	Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions           
+Haoyu Wang, **Jiaheng Wei**, Zhenyuan Zhang           
+[[paper]](https://arxiv.org/abs/2209.03999)           
 
 (\*: denotes equal contributions)  
