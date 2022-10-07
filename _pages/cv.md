@@ -18,7 +18,9 @@ Education
 
 Work Experience
 ======
-Student Researcher, Google Mountain View (since February, 2022)
+(Full-Time) Student Researcher, Google Mountain View (June, 2022 -- August, 2022)
+
+(Part-Time) Student Researcher, Google Mountain View (March, 2022 -- June, 2022)
 
 Publications
 ======
