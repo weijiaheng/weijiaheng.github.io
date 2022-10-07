@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a 4th-year Computer Science and Engineering Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/), fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)!
 
-My research interests are robust learning with imperfect data (weakly supervised learning), incentive design for data collection, adversarial machine learning.
+My research interests are robust learning under real-world constraints (label noise in human-generated data, class-imbalanced learning, group distributional robustness), incentive design for data collection, generative modeling.
 
 Previously, I received my Master of Science degree ([Data Science](https://www.brown.edu/initiatives/data-science/home)) at [Brown University](https://www.brown.edu/) and B. S. degree in Honors Science (Mathematics and Applied Mathematics) & Honors Youth ([Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young)) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
@@ -44,4 +44,4 @@ News
 
 Conference Review
 ======
-Reviewer at AAAI 2020, AISTATS 2021, CVPR 2021, ICCV 2021, NeurIPS 2021, ICLR 2022, CVPR 2022, ICML 2022.
+Reviewer at AAAI 2020, AISTATS 2021, CVPR 2021, ICCV 2021, NeurIPS 2021, ICLR 2022, CVPR 2022, ICML 2022, NeurIPS 2022, ICLR 2023.
