@@ -20,7 +20,7 @@ News
 
 [2022. 07] Oral presentation at ICML 2022 (Deep Learning: Robustness).
 
-[2022. 07] One paper accepted to ECCV 2022.
+[2022. 07] One first-author paper accepted to ECCV 2022.
 
 [2022. 06] Invited talk from [AI-Time](http://www.aitime.cn/).
 
@@ -30,7 +30,7 @@ News
 
 [2022. 02] I start my journey at Google Brain (student researcher), fortunately advised by [Abhishek Kumar](http://www.abhishek.umiacs.io/index.html) and [Ehsan Amid](https://sites.google.com/view/eamid/)!
 
-[2022. 01] One paper accepted to ICLR 2022.
+[2022. 01] One first-author paper accepted to ICLR 2022.
 
 [2021. 12] I become a PhD candidate (with Honors).
 
@@ -38,9 +38,9 @@ News
 
 [2021. 11] I gave a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML 2021.
 
-[2021. 02] One paper accepted to AISTATS 2021.
+[2021. 02] One first-author paper accepted to AISTATS 2021.
 
-[2021. 01] One paper accepted to ICLR 2021.
+[2021. 01] One first-author paper accepted to ICLR 2021.
 
 Conference Review
 ======
