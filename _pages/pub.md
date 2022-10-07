@@ -32,7 +32,7 @@ ICLR -- International Conference on Learning Representations, 2021
 
 4.  To Aggregate or Not? Learning with Separate Noisy Labels             
 **Jiaheng Wei\***, Zhaowei Zhu\*, Tianyi Luo, Ehsan Amid, Abhishek Kumar, Yang Liu               
-(Under Review) [[paper]](https://arxiv.org/abs/2206.07181) 
+(Under Review) [[paper]](https://arxiv.org/abs/2206.07181) [Category: Label Noise] 
 
 5.  Distributionally Robust Post-hoc Clasifiers under Prior Shifts               
 **Jiaheng Wei**, Harikrishna Narasimhan, Ehsan Amid, Wensheng Chu, Yang Liu, Abhishek Kumar               
@@ -46,12 +46,12 @@ ICLR -- International Conference on Learning Representations, 2021
 1.	Sample Elicitation           
 **Jiaheng Wei\***, Zuyue Fu*, Yang Liu, Xingyu Li, Zhuoran Yang, Zhaoran Wang           
 AISTATS -- International Conference on Artificial Intelligence and Statistics, 2021           
-[[paper]](https://proceedings.mlr.press/v130/wei21c)  [[code]](https://github.com/weijiaheng/Credible-sample-elicitation)
+[[paper]](https://proceedings.mlr.press/v130/wei21c)  [[code]](https://github.com/weijiaheng/Credible-sample-elicitation) [Category: Information Elicitation]
 
 2.	Incentives for Federated Learning: a Hypothesis Elicitation Approach           
 Yang Liu and **Jiaheng Wei**            
 ICML workshop -- Workshop on Incentives in Machine Learning, 2020               
-[[paper]](https://arxiv.org/abs/2007.10596)     
+[[paper]](https://arxiv.org/abs/2007.10596) [Category: Information Elicitation]     
 
 **Other Papers**
 1.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
