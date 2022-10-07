@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 3rd-year Computer Science and Engineering Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/), fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)!
+I am currently a 4th-year Computer Science and Engineering Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/), fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)!
 
 My research interests are robust learning with imperfect data (weakly supervised learning), incentive design for data collection, adversarial machine learning.
 
