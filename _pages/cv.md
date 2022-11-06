@@ -63,6 +63,8 @@ ECCV -- European Conference on Computer Vision, 2022
 
 Talks
 ======
+* **Oct, 2022** I gave an invited talk from Domain Adaptation Team at University of Toronto.
+
 * **Aug, 2022** I gave an invited talk at [AI-Time](http://www.aitime.cn/). 
 
 * **Jul, 2022** I gave an oral presentation at ICML 2022 (Deep Learning: Robustness). 
