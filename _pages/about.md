@@ -26,7 +26,7 @@ News
 
 [2022. 06] Invited talk from [AI-Time](http://www.aitime.cn/).
 
-[2022. 05] One paper accepted to ICML 2022 (Long Presentation, 2.1%).
+[2022. 05] One first-author paper accepted to ICML 2022 (Long Presentation, 2.1%).
 
 [2022. 04] Call for participation: 1st Learning and Mining with Noisy Labels Challenge at IJCAI-ECAI 2022 [[link]](http://ucsc-real.soe.ucsc.edu:1995/).
 
