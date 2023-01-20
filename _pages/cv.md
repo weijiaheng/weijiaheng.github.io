@@ -27,34 +27,39 @@ Publications
 [Semantic Scholoar](https://www.semanticscholar.org/author/Jiaheng-Wei/103410241) & [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4mzzRmyicjKgyJuE_WLzx_tpVQntZMEAN1HK6chxXKFENXHN68EgZTimHO8MrddNz0k99myPtWpGaSGugghQJktT4mVvqGV33rBg7DnSMTjo5630I&user=gfB8UaIAAAAJ)
 
 **Robust Learning from Human-Generated Data (Weakly-Supervised Learning)**
-1.  To Smooth or Not? When Label Smoothing Meets Noisy Labels             
+1.  Distributionally Robust Post-hoc Clasifiers under Prior Shifts               
+**Jiaheng Wei**, Harikrishna Narasimhan, Ehsan Amid, Wensheng Chu, Yang Liu, Abhishek Kumar               
+ICLR -- International Conference on Learning Representations, 2023 
+[[paper]](https://openreview.net/forum?id=3KUfbI9_DQE)
+
+2.  To Smooth or Not? When Label Smoothing Meets Noisy Labels             
 **Jiaheng Wei**, Hangyu Liu, Tongliang Liu, Gang Niu, Masashi Sugiyama, Yang Liu               
 ICML (Long Presentation) -- International Conference on Machine Learning, 2022                
 [[paper]](https://arxiv.org/abs/2106.04149)  
 
-2.	Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations     
+3.	Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations     
 **Jiaheng Wei\***, Zhaowei Zhu\*, Hao Cheng, Tongliang Liu, Gang Niu, Yang Liu     
 ICLR -- International Conference on Learning Representations, 2022           
 [[paper]](https://openreview.net/forum?id=TBWA6PLJZQm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions))  [[code]](http://noisylabels.com/) 
 
-3.  When Optimizing f-divergence is Robust with Label Noise           
+4.  When Optimizing f-divergence is Robust with Label Noise           
 **Jiaheng Wei** and Yang Liu      
 ICLR -- International Conference on Learning Representations, 2021         
 [[paper]](https://openreview.net/forum?id=WesiCoRVQ15)  [[code]](https://github.com/weijiaheng/Robust-f-divergence-measures)
 
 **Incentives in Machine Learning**
-4.	Sample Elicitation           
+5.	Sample Elicitation           
 **Jiaheng Wei\***, Zuyue Fu*, Yang Liu, Xingyu Li, Zhuoran Yang, Zhaoran Wang           
 AISTATS -- International Conference on Artificial Intelligence and Statistics, 2021           
 [[paper]](https://proceedings.mlr.press/v130/wei21c)  [[code]](https://github.com/weijiaheng/Credible-sample-elicitation)
 
-5.	Incentives for Federated Learning: a Hypothesis Elicitation Approach           
+6.	Incentives for Federated Learning: a Hypothesis Elicitation Approach           
 Yang Liu and **Jiaheng Wei**            
 ICML workshop -- Workshop on Incentives in Machine Learning, 2020               
 [[paper]](https://arxiv.org/abs/2007.10596)     
 
 **Generative Modeling**
-6.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
+7.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
 **Jiaheng Wei\***, Minghao Liu\*, Jiahao Luo, Andrew Zhu, James Davis, Yang Liu               
 ECCV -- European Conference on Computer Vision, 2022            
 [[paper]](https://arxiv.org/abs/2101.07524)

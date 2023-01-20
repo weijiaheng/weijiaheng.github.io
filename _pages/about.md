@@ -16,6 +16,8 @@ Previously, I received my Master of Science degree ([Data Science](https://www.b
 
 News
 ======
+[2023. 01] One first-author paper accepted to ICLR 2023 (done while as a Student Researcher at Google Brain).
+
 [2022. 10] Invited talk from Domain Adaptation Team at University of Toronto.
 
 [2022. 08] Invited talk from [AI-Time](http://www.aitime.cn/).
@@ -46,4 +48,4 @@ News
 
 Conference Review
 ======
-Reviewer at AAAI 2020, AISTATS 2021, CVPR 2021, ICCV 2021, NeurIPS 2021, ICLR 2022, CVPR 2022, ICML 2022, NeurIPS 2022, ICLR 2023.
+Reviewer at AAAI 2020, AISTATS 2021, CVPR 2021, ICCV 2021, NeurIPS 2021, ICLR 2022, CVPR 2022, ICML 2022, NeurIPS 2022, ICLR 2023, IJCAI 2023.
