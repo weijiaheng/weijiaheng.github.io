@@ -68,6 +68,8 @@ ECCV -- European Conference on Computer Vision, 2022
 
 Talks
 ======
+* **Dec, 2022** I joined [CROSS](https://cross.ucsc.edu/index.html) as a Research Fellow.
+
 * **Oct, 2022** I gave an invited talk from Domain Adaptation Team at University of Toronto.
 
 * **Aug, 2022** I gave an invited talk at [AI-Time](http://www.aitime.cn/). 
@@ -80,7 +82,7 @@ Talks
   
 Conference Reviews
 ======
-Reviewer at AAAI 2020, AISTATS 2021, CVPR 2021, ICCV 2021, NeurIPS 2021, ICLR 2022, CVPR 2022, ICML 2022.
+Reviewer at AAAI 2020, AISTATS 2021, CVPR 2021, ICCV 2021, NeurIPS 2021, ICLR 2022, CVPR 2022, ICML 2022, IJCAI 2023.
 
 Teaching Experience
 ======

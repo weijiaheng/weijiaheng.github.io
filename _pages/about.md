@@ -18,6 +18,8 @@ News
 ======
 [2023. 01] One first-author paper accepted to ICLR 2023 (work done at Google Brain).
 
+[2022. 12] Joined [CROSS](https://cross.ucsc.edu/index.html) as a Research Fellow.
+
 [2022. 10] Invited talk from Domain Adaptation Team at University of Toronto.
 
 [2022. 08] Invited talk from [AI-Time](http://www.aitime.cn/).
