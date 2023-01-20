@@ -39,8 +39,8 @@ ICLR -- International Conference on Learning Representations, 2021
 **Jiaheng Wei\***, Zhaowei Zhu\*, Tianyi Luo, Ehsan Amid, Abhishek Kumar, Yang Liu               
 (Under Review) [[paper]](https://arxiv.org/abs/2206.07181) [Category: Label Noise] 
 
-6.  Disparate Treatment of Sub-Populations is Beneficial When Learning with Noisily Labeled Data             
-**Jiaheng Wei**, Zhaowei Zhu, Gang Niu, Yang Liu               
+6.  Fairness Constraints Improve Learning from Noisily Labeled Long-Tailed Data             
+**Jiaheng Wei**, Zhaowei Zhu, Gang Niu, Masashi Sugiyama, Yang Liu               
 (Under Review) [Category: Long-Tailed Learning] 
 
 **Incentives in Machine Learning**
