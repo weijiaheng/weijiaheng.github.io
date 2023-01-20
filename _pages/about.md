@@ -16,7 +16,7 @@ Previously, I received my Master of Science degree ([Data Science](https://www.b
 
 News
 ======
-[2023. 01] One first-author paper accepted to ICLR 2023 (done while as a Student Researcher at Google Brain).
+[2023. 01] One first-author paper accepted to ICLR 2023 (work done at Google Brain).
 
 [2022. 10] Invited talk from Domain Adaptation Team at University of Toronto.
 

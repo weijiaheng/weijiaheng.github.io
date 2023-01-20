@@ -17,7 +17,7 @@ Publications and Preprints
 **Robust Learning under Distribution Shifts**
 1.  Distributionally Robust Post-hoc Clasifiers under Prior Shifts               
 **Jiaheng Wei**, Harikrishna Narasimhan, Ehsan Amid, Wensheng Chu, Yang Liu, Abhishek Kumar               
-ICLR -- International Conference on Learning Representations, 2023 
+ICLR -- International Conference on Learning Representations, 2023              
 [[paper]](https://openreview.net/forum?id=3KUfbI9_DQE) [Category: Long-Tailed Learning, Group-Dro] 
 
 2.  To Smooth or Not? When Label Smoothing Meets Noisy Labels             
