@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jiaheng Wei"
-description              : &description "PhD student at UC Santa Cruz"
+description              : &description "PhD candidate at UC Santa Cruz"
 url                      : https://weijiaheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weijiaheng/weijiaheng.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jiaheng Wei"
-  avatar           : "profile.jpeg"
-  bio              : "PhD student at UC Santa Cruz"
-  location         : "Santa Cruz, California, USA"
+  avatar           : "profile.jpg"
+  bio              : "PhD candidate at UC Santa Cruz"
+  location         : "Sunnyvale, California, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4mzzRmyicjKgyJuE_WLzx_tpVQntZMEAN1HK6chxXKFENXHN68EgZTimHO8MrddNz0k99myPtWpGaSGugghQJktT4mVvqGV33rBg7DnSMTjo5630I&user=gfB8UaIAAAAJ"
