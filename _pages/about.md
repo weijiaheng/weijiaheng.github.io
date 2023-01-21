@@ -18,9 +18,7 @@ Contact
 ======
 Actively looking for machine learning research internship (2023 summer). Please feel free to contact me if you are interested or want to collaborate.
 
-Email: jiahengwei(at)ucsc(dot)edu; 
-
-Wechat: WJH_Derrick
+Email: jiahengwei(at)ucsc(dot)edu; Wechat: WJH_Derrick
 
 
 News
