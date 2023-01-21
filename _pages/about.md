@@ -14,6 +14,15 @@ My research interests are robust learning under real-world constraints (label no
 
 Previously, I received my Master of Science degree ([Data Science](https://www.brown.edu/initiatives/data-science/home)) at [Brown University](https://www.brown.edu/) and B. S. degree in Honors Science (Mathematics and Applied Mathematics) & Honors Youth ([Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young)) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
+Contact
+======
+Actively looking for machine learning research internship (2023 summer). Please feel free to contact me if you are interested or want to collaborate.
+
+Email: jiahengwei(at)ucsc(dot)edu; 
+
+Wechat: WJH_Derrick
+
+
 News
 ======
 [2023. 01] One first-author paper accepted to ICLR 2023 (work done at Google Brain).
