@@ -55,6 +55,3 @@ News
 
 [2021. 01] One first-author paper accepted to ICLR 2021.
 
-Conference Review
-======
-Reviewer at AAAI 2020, AISTATS 2021, CVPR 2021, ICCV 2021, NeurIPS 2021, ICLR 2022, CVPR 2022, ICML 2022, NeurIPS 2022, ICLR 2023, IJCAI 2023.
