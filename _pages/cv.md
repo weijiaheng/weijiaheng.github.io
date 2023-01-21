@@ -24,7 +24,6 @@ Work Experience
 
 Publications
 ======
-[Semantic Scholoar](https://www.semanticscholar.org/author/Jiaheng-Wei/103410241) & [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4mzzRmyicjKgyJuE_WLzx_tpVQntZMEAN1HK6chxXKFENXHN68EgZTimHO8MrddNz0k99myPtWpGaSGugghQJktT4mVvqGV33rBg7DnSMTjo5630I&user=gfB8UaIAAAAJ)
 
 **Robust Learning from Human-Generated Data (Weakly-Supervised Learning)**
 1.  Distributionally Robust Post-hoc Clasifiers under Prior Shifts               
@@ -68,7 +67,6 @@ ECCV -- European Conference on Computer Vision, 2022
 
 Talks
 ======
-* **Dec, 2022** I joined [CROSS](https://cross.ucsc.edu/index.html) as a Research Fellow.
 
 * **Oct, 2022** I gave an invited talk from Domain Adaptation Team at University of Toronto.
 
