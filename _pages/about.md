@@ -44,14 +44,3 @@ News
 [2022. 02] I start my journey at Google Brain (student researcher), fortunately advised by [Abhishek Kumar](https://abhishek.umiacs.io/) and [Ehsan Amid](https://sites.google.com/view/eamid/)!
 
 [2022. 01] One first-author paper accepted to ICLR 2022.
-
-[2021. 12] I become a PhD candidate (with Honors).
-
-[2021. 11] [noisylabels.com](http://www.noisylabels.com/) is online! We collected and published re-annotated versions of the CIFAR-10 and CIFAR-100 data which contain real-world human annotation errors. 
-
-[2021. 11] I gave a short talk in the [Weakly Supervised Learning (WSL) workshop](https://wsl-workshop.github.io/acml21.html) at ACML 2021.
-
-[2021. 02] One first-author paper accepted to AISTATS 2021.
-
-[2021. 01] One first-author paper accepted to ICLR 2021.
-
