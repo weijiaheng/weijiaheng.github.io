@@ -17,6 +17,7 @@ Previously, I received my Master of Science degree ([Data Science](https://www.b
 Contact
 ======
 Please feel free to contact me if you are want to collaborate.
+
 Email: jiahengwei(at)ucsc(dot)edu; Wechat: WJH_Derrick
 
 
@@ -41,3 +42,5 @@ News
 [2022. 04] Call for participation: 1st Learning and Mining with Noisy Labels Challenge at IJCAI-ECAI 2022 [[link]](http://ucsc-real.soe.ucsc.edu:1995/).
 
 [2022. 02] I start my journey at Google Brain (student researcher), fortunately advised by [Abhishek Kumar](https://abhishek.umiacs.io/) and [Ehsan Amid](https://sites.google.com/view/eamid/)!
+
+[2022. 01] One first-author paper accepted to ICLR 2022.

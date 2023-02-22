@@ -29,17 +29,17 @@ Publications
 1.  Distributionally Robust Post-hoc Clasifiers under Prior Shifts               
 **Jiaheng Wei**, Harikrishna Narasimhan, Ehsan Amid, Wensheng Chu, Yang Liu, Abhishek Kumar               
 ICLR -- International Conference on Learning Representations, 2023               
-[[paper]](https://openreview.net/forum?id=3KUfbI9_DQE)
+[[paper]](https://openreview.net/forum?id=3KUfbI9_DQE)  [[code]](https://github.com/weijiaheng/Drops) 
 
 2.  To Smooth or Not? When Label Smoothing Meets Noisy Labels             
 **Jiaheng Wei**, Hangyu Liu, Tongliang Liu, Gang Niu, Masashi Sugiyama, Yang Liu               
 ICML (Long Presentation) -- International Conference on Machine Learning, 2022                
-[[paper]](https://arxiv.org/abs/2106.04149)  
+[[paper]](https://arxiv.org/abs/2106.04149)  [[code]](https://github.com/UCSC-REAL/negative-label-smoothing)   
 
 3.	Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations     
 **Jiaheng Wei\***, Zhaowei Zhu\*, Hao Cheng, Tongliang Liu, Gang Niu, Yang Liu     
 ICLR -- International Conference on Learning Representations, 2022           
-[[paper]](https://openreview.net/forum?id=TBWA6PLJZQm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions))  [[code]](http://noisylabels.com/) 
+[[paper]](https://openreview.net/forum?id=TBWA6PLJZQm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions))  [[data]](http://noisylabels.com/)  [[code]](https://github.com/UCSC-REAL/cifar-10-100n)  
 
 4.  When Optimizing f-divergence is Robust with Label Noise           
 **Jiaheng Wei** and Yang Liu      
@@ -61,7 +61,7 @@ ICML workshop -- Workshop on Incentives in Machine Learning, 2020
 7.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
 **Jiaheng Wei\***, Minghao Liu\*, Jiahao Luo, Andrew Zhu, James Davis, Yang Liu               
 ECCV -- European Conference on Computer Vision, 2022            
-[[paper]](https://arxiv.org/abs/2101.07524)
+[[paper]](https://arxiv.org/abs/2101.07524)  [[code]](https://github.com/UCSC-REAL/DuelGAN) 
 
 (\*: denotes equal contributions)       
 
