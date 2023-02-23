@@ -46,6 +46,12 @@ ICLR -- International Conference on Learning Representations, 2022
 ICLR -- International Conference on Learning Representations, 2021         
 [[paper]](https://openreview.net/forum?id=WesiCoRVQ15)  [[code]](https://github.com/weijiaheng/Robust-f-divergence-measures)
 
+5.  To Aggregate or Not? Learning with Separate Noisy Labels             
+**Jiaheng Wei\***, Zhaowei Zhu\*, Tianyi Luo, Ehsan Amid, Abhishek Kumar, Yang Liu               
+WSDM -- The 16th ACM International Conference on Web Search and Data Mining 2023 (Crowd Science Workshop)
+[[paper]](https://arxiv.org/abs/2206.07181)
+
+
 **Incentives in Machine Learning**
 5.	Sample Elicitation           
 **Jiaheng Wei\***, Zuyue Fu*, Yang Liu, Xingyu Li, Zhuoran Yang, Zhaoran Wang           
