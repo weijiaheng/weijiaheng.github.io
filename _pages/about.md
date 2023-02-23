@@ -23,6 +23,8 @@ Email: jiahengwei(at)ucsc(dot)edu; Wechat: WJH_Derrick
 
 News
 ======
+[2023. 02] I will join ByteDance AI Lab for the Machine Learning (Research) Intern this summer.
+
 [2023. 01] One first-author paper accepted to ICLR 2023 (work done at Google Brain).
 
 [2022. 12] Joined [CROSS](https://cross.ucsc.edu/index.html) as a Research Fellow.
