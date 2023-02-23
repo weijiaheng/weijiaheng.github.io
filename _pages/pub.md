@@ -37,7 +37,7 @@ ICLR -- International Conference on Learning Representations, 2021
 
 5.  To Aggregate or Not? Learning with Separate Noisy Labels             
 **Jiaheng Wei\***, Zhaowei Zhu\*, Tianyi Luo, Ehsan Amid, Abhishek Kumar, Yang Liu               
-WSDM -- The 16th ACM International Conference on Web Search and Data Mining 2023 (Crowd Science Workshop)
+WSDM workshop -- Crowd Science Workshop, 2023
 [[paper]](https://arxiv.org/abs/2206.07181) [Category: Label Noise] 
 
 6.  Fairness Constraints Improve Learning from Noisily Labeled Long-Tailed Data             
