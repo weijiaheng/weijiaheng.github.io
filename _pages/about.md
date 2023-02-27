@@ -16,7 +16,7 @@ Previously, I received my Master of Science degree ([Data Science](https://www.b
 
 Contact
 ======
-Please feel free to contact me if you are want to collaborate.
+Please feel free to contact me if you want to collaborate.
 
 Email: jiahengwei(at)ucsc(dot)edu; Wechat: WJH_Derrick
 
