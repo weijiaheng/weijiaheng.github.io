@@ -74,6 +74,8 @@ ECCV -- European Conference on Computer Vision, 2022
 Talks
 ======
 
+* **Mar, 2023** I gave a short talk in the [Crowd Science workshop](https://toloka.ai/events/wsdm-2023/) at WSDM 2023. 
+
 * **Oct, 2022** I gave an invited talk from Domain Adaptation Team at University of Toronto.
 
 * **Aug, 2022** I gave an invited talk at [AI-Time](http://www.aitime.cn/). 
