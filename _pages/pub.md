@@ -61,7 +61,11 @@ ICML workshop -- Workshop on Incentives in Machine Learning, 2020
 ECCV -- European Conference on Computer Vision, 2022            
 [[paper]](https://arxiv.org/abs/2101.07524)  [[code]](https://github.com/UCSC-REAL/DuelGAN) [Category: Deep Generative Models]           
 
-2.	Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions           
+2.	Do humans and machines have the same eyes? Human-machine perceptual differences on image classification.           
+Minghao Liu, **Jiaheng Wei**, Yang Liu, James Davis               
+(Under Review) [Category: Human-in-the-loop]    
+
+3.	Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions           
 Haoyu Wang, **Jiaheng Wei**, Zhenyuan Zhang           
 (Under Review) [[paper]](https://arxiv.org/abs/2209.03999) [Category: Majority Dynamics]           
 
