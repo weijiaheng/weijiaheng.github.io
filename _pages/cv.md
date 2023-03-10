@@ -53,18 +53,18 @@ WSDM workshop -- Crowd Science Workshop, 2023
 
 
 **Incentives in Machine Learning**
-5.	Sample Elicitation           
+6.	Sample Elicitation           
 **Jiaheng Wei\***, Zuyue Fu*, Yang Liu, Xingyu Li, Zhuoran Yang, Zhaoran Wang           
 AISTATS -- International Conference on Artificial Intelligence and Statistics, 2021           
 [[paper]](https://proceedings.mlr.press/v130/wei21c)  [[code]](https://github.com/weijiaheng/Credible-sample-elicitation)
 
-6.	Incentives for Federated Learning: a Hypothesis Elicitation Approach           
+7.	Incentives for Federated Learning: a Hypothesis Elicitation Approach           
 Yang Liu and **Jiaheng Wei**            
 ICML workshop -- Workshop on Incentives in Machine Learning, 2020               
 [[paper]](https://arxiv.org/abs/2007.10596)     
 
 **Generative Modeling**
-7.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
+8.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
 **Jiaheng Wei\***, Minghao Liu\*, Jiahao Luo, Andrew Zhu, James Davis, Yang Liu               
 ECCV -- European Conference on Computer Vision, 2022            
 [[paper]](https://arxiv.org/abs/2101.07524)  [[code]](https://github.com/UCSC-REAL/DuelGAN) 

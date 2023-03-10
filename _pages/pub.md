@@ -45,27 +45,27 @@ WSDM workshop -- Crowd Science Workshop, 2023
 (Under Review) [Category: Long-Tailed Learning] 
 
 **Incentives in Machine Learning**
-1.	Sample Elicitation           
+7.	Sample Elicitation           
 **Jiaheng Wei\***, Zuyue Fu*, Yang Liu, Xingyu Li, Zhuoran Yang, Zhaoran Wang           
 AISTATS -- International Conference on Artificial Intelligence and Statistics, 2021           
 [[paper]](https://proceedings.mlr.press/v130/wei21c)  [[code]](https://github.com/weijiaheng/Credible-sample-elicitation) [Category: Information Elicitation]
 
-2.	Incentives for Federated Learning: a Hypothesis Elicitation Approach           
+8.	Incentives for Federated Learning: a Hypothesis Elicitation Approach           
 Yang Liu and **Jiaheng Wei**            
 ICML workshop -- Workshop on Incentives in Machine Learning, 2020               
 [[paper]](https://arxiv.org/abs/2007.10596) [Category: Information Elicitation]     
 
 **Other Papers**
-1.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
+9.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
 **Jiaheng Wei\***, Minghao Liu\*, Jiahao Luo, Andrew Zhu, James Davis, Yang Liu               
 ECCV -- European Conference on Computer Vision, 2022            
 [[paper]](https://arxiv.org/abs/2101.07524)  [[code]](https://github.com/UCSC-REAL/DuelGAN) [Category: Deep Generative Models]           
 
-2.	Do humans and machines have the same eyes? Human-machine perceptual differences on image classification.           
+10.	Do humans and machines have the same eyes? Human-machine perceptual differences on image classification.           
 Minghao Liu, **Jiaheng Wei**, Yang Liu, James Davis               
 (Under Review) [Category: Human-in-the-loop]    
 
-3.	Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions           
+11.	Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions           
 Haoyu Wang, **Jiaheng Wei**, Zhenyuan Zhang           
 (Under Review) [[paper]](https://arxiv.org/abs/2209.03999) [Category: Majority Dynamics]           
 
