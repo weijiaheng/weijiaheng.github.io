@@ -40,9 +40,9 @@ ICLR -- International Conference on Learning Representations, 2021
 WSDM workshop -- Crowd Science Workshop, 2023               
 [[paper]](https://arxiv.org/abs/2206.07181) [Category: Label Noise] 
 
-6.  Fairness Constraints Improve Learning from Noisily Labeled Long-Tailed Data             
+6.  Fairness Improve Learning from Noisily Labeled Long-Tailed Data             
 **Jiaheng Wei**, Zhaowei Zhu, Gang Niu, Tongliang Liu, Sijia Liu, Masashi Sugiyama, Yang Liu               
-(Under Review) [Category: Long-Tailed Learning] 
+(Under Review) [[paper]](https://arxiv.org/abs/2303.12291) [Category: Long-Tailed Learning] 
 
 **Incentives in Machine Learning**
 7.	Sample Elicitation           
