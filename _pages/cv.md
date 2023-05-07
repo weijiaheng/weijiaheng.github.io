@@ -18,9 +18,11 @@ Education
 
 Work Experience
 ======
-(Full-Time) Student Researcher, Google Research Brain Team (June, 2022 -- August, 2022)
+Research Intern, Bytedance AI Lab (June, 2023 -- September, 2023)               
+Project: Machine Learning Fairness
 
-(Part-Time) Student Researcher, Google Research Brain Team (March, 2022 -- June, 2022)
+Student Researcher, Google Research Brain Team (March, 2022 -- August, 2022)               
+Project: Class-imbalanced learing, Distributional robustness optimziation
 
 Publications
 ======
