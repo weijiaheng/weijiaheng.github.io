@@ -73,6 +73,7 @@ ECCV -- European Conference on Computer Vision, 2022
 
 Talks
 ======
+* **Apr, 2023** I gave a invited talk at the TMLR Young Scientist Seminar. 
 
 * **Mar, 2023** I gave a short talk in the [Crowd Science workshop](https://toloka.ai/events/wsdm-2023/) at WSDM 2023. 
 
@@ -98,6 +99,7 @@ Teaching Experience
 
 Honor and Awards
 ======
+* The only recipient of Jack Baskin and Peggy Downes-Baskin Fellowship. (2023)
 * Travel Grant from International Conference on Machine Learning (ICML).  (2022)
 * The First Prize of National Mount Everest Programme Scholarship in 2016-2017 Academic Year.  (2017)
 * The Second Prize of National Mount Everest Programme Scholarship in 2015-2016 Academic Year.  (2016)

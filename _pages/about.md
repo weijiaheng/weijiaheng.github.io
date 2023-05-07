@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 4th-year Computer Science and Engineering Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/), fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)!
+I am currently a 4th-year CSE Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/), recipient of Jack Baskin and Peggy Downes-Baskin Fellowship 2023-2024, fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)!
 
-My research interests are robust learning under real-world constraints (label noise in human-generated data, class-imbalanced learning, group distributional robustness), incentive design for data collection, generative modeling.
+My research interests lie in trustworthy machine learning \& large language models, i.e., robust learning under real-world constraints (label noise in human-generated data, class-imbalanced learning, group distributional robustness), data alignment in large language models, incentive design for data collection, and generative modeling.
 
 Previously, I received my Master of Science degree ([Data Science](https://www.brown.edu/initiatives/data-science/home)) at [Brown University](https://www.brown.edu/) and B. S. degree in Honors Science (Mathematics and Applied Mathematics) & Honors Youth ([Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young)) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
@@ -23,6 +23,10 @@ Email: jiahengwei(at)ucsc(dot)edu; Wechat: WJH_Derrick
 
 News
 ======
+[2023. 05] I am hornored to be selected as the only one 2023-24 Jack Baskin and Peggy Downes-Baskin Fellowship recipient.
+
+[2023. 04] Invited talk from TMLR Young Scientist Seminar.
+
 [2023. 03] Oral presentation at WSDM 2023 (Crowd Science Workshop).
 
 [2023. 02] I will join ByteDance AI Lab for the Machine Learning (Research) Intern this summer.
