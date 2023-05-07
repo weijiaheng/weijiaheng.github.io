@@ -10,9 +10,9 @@ redirect_from:
 
 I am currently a 4th-year CSE Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/), recipient of Jack Baskin and Peggy Downes-Baskin Fellowship 2023-2024, fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)!
 
-My research interests lie in trustworthy machine learning \& large language models, i.e., robust learning under real-world constraints (label noise in human-generated data, class-imbalanced learning, group distributional robustness), data alignment in large language models, incentive design for data collection, and generative modeling.
+My research interests lie in trustworthy machine learning & large language models, i.e., robust learning under real-world constraints (label errors in human-generated data, class-imbalanced learning, group distributional robustness), data alignment in large language models, incentive design for data collection, and generative modeling.
 
-Previously, I received my Master of Science degree ([Data Science](https://www.brown.edu/initiatives/data-science/home)) at [Brown University](https://www.brown.edu/) and B. S. degree in Honors Science (Mathematics and Applied Mathematics) & Honors Youth ([Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young)) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+Previously, I received my Master of Science degree ([Data Science](https://www.brown.edu/initiatives/data-science/home)) at [Brown University](https://www.brown.edu/) and B. S. degree in Honors Math & Honors Youth ([Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young)) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 Contact
 ======
