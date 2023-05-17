@@ -28,30 +28,30 @@ Publications
 ======
 
 **Robust Learning from Human-Generated Data (Weakly-Supervised Learning)**
-1.  Distributionally Robust Post-hoc Clasifiers under Prior Shifts               
+1.  To Aggregate or Not? Learning with Separate Noisy Labels             
+**Jiaheng Wei\***, Zhaowei Zhu\*, Tianyi Luo, Ehsan Amid, Abhishek Kumar, Yang Liu               
+KDD -- ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, 2023               
+[[paper]](https://arxiv.org/abs/2206.07181)
+
+2.  Distributionally Robust Post-hoc Clasifiers under Prior Shifts               
 **Jiaheng Wei**, Harikrishna Narasimhan, Ehsan Amid, Wensheng Chu, Yang Liu, Abhishek Kumar               
 ICLR -- International Conference on Learning Representations, 2023               
 [[paper]](https://openreview.net/forum?id=3KUfbI9_DQE)  [[code]](https://github.com/weijiaheng/Drops) 
 
-2.  To Smooth or Not? When Label Smoothing Meets Noisy Labels             
+3.  To Smooth or Not? When Label Smoothing Meets Noisy Labels             
 **Jiaheng Wei**, Hangyu Liu, Tongliang Liu, Gang Niu, Masashi Sugiyama, Yang Liu               
 ICML (Long Presentation) -- International Conference on Machine Learning, 2022                
 [[paper]](https://arxiv.org/abs/2106.04149)  [[code]](https://github.com/UCSC-REAL/negative-label-smoothing)   
 
-3.	Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations     
+4.	Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations     
 **Jiaheng Wei\***, Zhaowei Zhu\*, Hao Cheng, Tongliang Liu, Gang Niu, Yang Liu     
 ICLR -- International Conference on Learning Representations, 2022           
 [[paper]](https://openreview.net/forum?id=TBWA6PLJZQm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions))  [[data]](http://noisylabels.com/)  [[code]](https://github.com/UCSC-REAL/cifar-10-100n)  
 
-4.  When Optimizing f-divergence is Robust with Label Noise           
+5.  When Optimizing f-divergence is Robust with Label Noise           
 **Jiaheng Wei** and Yang Liu      
 ICLR -- International Conference on Learning Representations, 2021         
 [[paper]](https://openreview.net/forum?id=WesiCoRVQ15)  [[code]](https://github.com/weijiaheng/Robust-f-divergence-measures)
-
-5.  To Aggregate or Not? Learning with Separate Noisy Labels             
-**Jiaheng Wei\***, Zhaowei Zhu\*, Tianyi Luo, Ehsan Amid, Abhishek Kumar, Yang Liu               
-WSDM workshop -- Crowd Science Workshop, 2023               
-[[paper]](https://arxiv.org/abs/2206.07181)
 
 
 **Incentives in Machine Learning**

@@ -23,6 +23,8 @@ Email: jiahengwei(at)ucsc(dot)edu; Wechat: WJH_Derrick
 
 News
 ======
+[2023. 05] One first-author paper accepted to KDD 2023.
+
 [2023. 05] I am hornored to be selected as the only one 2023-24 Jack Baskin and Peggy Downes-Baskin Fellowship recipient.
 
 [2023. 04] Invited talk from TMLR Young Scientist Seminar.
