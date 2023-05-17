@@ -14,11 +14,11 @@ Publications and Preprints
 ======
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4mzzRmyicjKgyJuE_WLzx_tpVQntZMEAN1HK6chxXKFENXHN68EgZTimHO8MrddNz0k99myPtWpGaSGugghQJktT4mVvqGV33rBg7DnSMTjo5630I&user=gfB8UaIAAAAJ) & [Semantic Scholoar](https://www.semanticscholar.org/author/Jiaheng-Wei/103410241)
 
-**Robust Learning under Distribution Shifts**
+**Trustworthy Machine Learning**
 1.  To Aggregate or Not? Learning with Separate Noisy Labels             
 **Jiaheng Wei\***, Zhaowei Zhu\*, Tianyi Luo, Ehsan Amid, Abhishek Kumar, Yang Liu               
-KDD -- ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, 2023               
-[[paper]](https://arxiv.org/abs/2206.07181) [Category: Label Noise] 
+KDD -- ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2023               
+[[paper]](https://arxiv.org/abs/2206.07181) [Category: Label Noise]            
 
 2.  Distributionally Robust Post-hoc Clasifiers under Prior Shifts               
 **Jiaheng Wei**, Harikrishna Narasimhan, Ehsan Amid, Wensheng Chu, Yang Liu, Abhishek Kumar               
@@ -44,28 +44,32 @@ ICLR -- International Conference on Learning Representations, 2021
 **Jiaheng Wei**, Zhaowei Zhu, Gang Niu, Tongliang Liu, Sijia Liu, Masashi Sugiyama, Yang Liu               
 (Under Review) [[paper]](https://arxiv.org/abs/2303.12291) [Category: Long-Tailed Learning] 
 
+7.	Do humans and machines have the same eyes? Human-machine perceptual differences on image classification.           
+Minghao Liu, **Jiaheng Wei**, Yang Liu, James Davis               
+(Under Review) [Category: Human-in-the-loop]    
+
 **Incentives in Machine Learning**
-7.	Sample Elicitation           
+8.	Sample Elicitation           
 **Jiaheng Wei\***, Zuyue Fu*, Yang Liu, Xingyu Li, Zhuoran Yang, Zhaoran Wang           
 AISTATS -- International Conference on Artificial Intelligence and Statistics, 2021           
 [[paper]](https://proceedings.mlr.press/v130/wei21c)  [[code]](https://github.com/weijiaheng/Credible-sample-elicitation) [Category: Information Elicitation]
 
-8.	Incentives for Federated Learning: a Hypothesis Elicitation Approach           
+9.	Incentives for Federated Learning: a Hypothesis Elicitation Approach           
 Yang Liu and **Jiaheng Wei**            
 ICML workshop -- Workshop on Incentives in Machine Learning, 2020               
 [[paper]](https://arxiv.org/abs/2007.10596) [Category: Information Elicitation]     
 
+10.	Beyond Data Sharing: Incentivizing Heterogeneous Clients in Strategic Federated Learning           
+Jinlong Pang, **Jiaheng Wei**, Chen Qian, Yang Liu            
+(Under Review) [Category: Information Elicitation]     
+
 **Other Papers**
-9.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
+11.	DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training.           
 **Jiaheng Wei\***, Minghao Liu\*, Jiahao Luo, Andrew Zhu, James Davis, Yang Liu               
 ECCV -- European Conference on Computer Vision, 2022            
 [[paper]](https://arxiv.org/abs/2101.07524)  [[code]](https://github.com/UCSC-REAL/DuelGAN) [Category: Deep Generative Models]           
 
-10.	Do humans and machines have the same eyes? Human-machine perceptual differences on image classification.           
-Minghao Liu, **Jiaheng Wei**, Yang Liu, James Davis               
-(Under Review) [Category: Human-in-the-loop]    
-
-11.	Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions           
+12.	Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions           
 Haoyu Wang, **Jiaheng Wei**, Zhenyuan Zhang           
 (Under Review) [[paper]](https://arxiv.org/abs/2209.03999) [Category: Majority Dynamics]           
 

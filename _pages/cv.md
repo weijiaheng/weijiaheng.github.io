@@ -27,10 +27,10 @@ Project: Class-imbalanced learing, Distributional robustness optimziation
 Publications
 ======
 
-**Robust Learning from Human-Generated Data (Weakly-Supervised Learning)**
+**Trustworthy Machine Learning**
 1.  To Aggregate or Not? Learning with Separate Noisy Labels             
 **Jiaheng Wei\***, Zhaowei Zhu\*, Tianyi Luo, Ehsan Amid, Abhishek Kumar, Yang Liu               
-KDD -- ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, 2023               
+KDD -- ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2023               
 [[paper]](https://arxiv.org/abs/2206.07181)
 
 2.  Distributionally Robust Post-hoc Clasifiers under Prior Shifts               
