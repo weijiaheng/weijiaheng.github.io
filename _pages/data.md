@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Opensource
+======
+**Docta**
+
+* [docta.ai](https://docta.ai/) is online. This is a library to help you understand and curate your data.
+
 Data
 ======
 **CIFAR-N**

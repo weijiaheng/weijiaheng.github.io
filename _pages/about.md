@@ -23,9 +23,13 @@ Email: jiahengwei(at)ucsc(dot)edu; Wechat: WJH_Derrick
 
 News
 ======
+[2023. 05] [docta.ai](https://docta.ai/) is online. This is a library to help you understand and curate your data.
+
 [2023. 05] One first-author paper accepted to KDD 2023.
 
 [2023. 05] I am hornored to be selected as the only one 2023-24 Jack Baskin and Peggy Downes-Baskin Fellowship recipient.
+
+[2023. 05] Invited talk from [AI-Time](http://www.aitime.cn/).
 
 [2023. 04] Invited talk from TMLR Young Scientist Seminar.
 
@@ -48,9 +52,3 @@ News
 [2022. 06] Invited talk from [AI-Time](http://www.aitime.cn/).
 
 [2022. 05] One first-author paper accepted to ICML 2022 (Long Presentation, 2.1%).
-
-[2022. 04] Call for participation: 1st Learning and Mining with Noisy Labels Challenge at IJCAI-ECAI 2022 [[link]](http://ucsc-real.soe.ucsc.edu:1995/).
-
-[2022. 02] I start my journey at Google Brain (student researcher), fortunately advised by [Abhishek Kumar](https://abhishek.umiacs.io/) and [Ehsan Amid](https://sites.google.com/view/eamid/)!
-
-[2022. 01] One first-author paper accepted to ICLR 2022.
