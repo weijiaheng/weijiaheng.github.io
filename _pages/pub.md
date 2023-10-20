@@ -54,8 +54,9 @@ Minghao Liu, **Jiaheng Wei**, Yang Liu, James Davis
 AISTATS -- International Conference on Artificial Intelligence and Statistics, 2021           
 [[paper]](https://proceedings.mlr.press/v130/wei21c)  [[code]](https://github.com/weijiaheng/Credible-sample-elicitation) [Category: Information Elicitation]
 
-9.	Incentives for Federated Learning: a Hypothesis Elicitation Approach           
-Yang Liu and **Jiaheng Wei**            
+9.	Auditing for Federated Learning: A Model Elicitation Approach           
+Yang Liu, Rixing Lou, **Jiaheng Wei** [Alphabetical order]
+DAI -- Distributed AI, 2023           
 ICML workshop -- Workshop on Incentives in Machine Learning, 2020               
 [[paper]](https://arxiv.org/abs/2007.10596) [Category: Information Elicitation]     
 

@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 4th-year CSE Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/), recipient of Jack Baskin and Peggy Downes-Baskin Fellowship 2023-2024, fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)!
+I am currently a final-year CSE Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/), recipient of Jack Baskin and Peggy Downes-Baskin Fellowship 2023-2024, fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)!
+
+I am now on the job market seeking for Research Scientist / Applied Scientist positions in Trustworthy/Responsible Machine Learning or Language Models. Please feel free to reach out if you have any open positions!
 
 My research interests lie in trustworthy machine learning & large language models, i.e., robust learning under real-world constraints (label errors in human-generated data, class-imbalanced learning, group distributional robustness), data alignment in large language models, incentive design for data collection, and generative modeling.
 
