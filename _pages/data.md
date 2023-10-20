@@ -9,11 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Opensource
+Opensource Softwares
 ======
 **Docta**
 
 * [docta.ai](https://docta.ai/) is online. This is a library to help you understand and curate your data.
+
+Key usages:
+
+* Find and fix label errors in LLM Alignment Data, image data, tabular data, etc.
+
+* Detecting rare patterns/features in your data and perform special treatment.
+
 
 Data
 ======

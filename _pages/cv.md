@@ -18,16 +18,19 @@ Education
 
 Work Experience
 ======
-Research Intern, Bytedance AI Lab (June, 2023 -- September, 2023)               
-Project topic: Evaluating Hallucination of LLM Text Generation without Using Ground-Truth [Paper in progress]
+Research Intern, Bytedance AI Lab (June, 2023 -- September, 2023)      
+Project topic: Evaluating Hallucination of LLM Text Generation without Using Ground-Truth      
+[Paper in progress]
 
 Student Researcher, Google Research Brain Team (June, 2022 -- September, 2022)               
-Project topic: Class-imbalanced learing, Distributional robustness optimziation
-Paper: [Distributionally Robust Post-hoc Classifiers under Prior Shifts](https://openreview.net/forum?id=3KUfbI9_DQE) [First authored paper published in ICLR 2023]
+Project topic: Class-imbalanced learing, Distributional robustness optimziation      
+Paper: [Distributionally Robust Post-hoc Classifiers under Prior Shifts](https://openreview.net/forum?id=3KUfbI9_DQE)      
+[First authored paper published in ICLR 2023]
 
 Student Researcher, Google Research Brain Team (March, 2022 -- May, 2022)               
-Project topic: Learning with crowd-sourced noisy labels
-Paper: [To Aggregate or Not? Learning with Separate Noisy Labels](https://arxiv.org/abs/2206.07181) [First authored paper published in KDD 2023]
+Project topic: Learning with crowd-sourced noisy labels      
+Paper: [To Aggregate or Not? Learning with Separate Noisy Labels](https://arxiv.org/abs/2206.07181)      
+[First authored paper published in KDD 2023]
 
 Publications
 ======
