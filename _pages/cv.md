@@ -14,15 +14,20 @@ Education
 * Ph.D in Computer Science, University of California, Santa Cruz, 2019--Now
 * M.S. in Data Science, Brown University, 2018--2019  (Graduate in advance)
 * B.S. in Honors Science (Mathematics and Applied Mathematics), Xi'an Jiaotong University, 2014--2018
-* B.S. in Honors Youth (Gifted Young), Xi'an Jiaotong University, 2012--2014
+* High school in Honors Youth (Gifted Young), Xi'an Jiaotong University, 2012--2014
 
 Work Experience
 ======
 Research Intern, Bytedance AI Lab (June, 2023 -- September, 2023)               
-Project: Machine Learning Fairness
+Project topic: Evaluating Hallucination of LLM Text Generation without Using Ground-Truth [Paper in progress]
 
-Student Researcher, Google Research Brain Team (March, 2022 -- August, 2022)               
-Project: Class-imbalanced learing, Distributional robustness optimziation
+Student Researcher, Google Research Brain Team (June, 2022 -- September, 2022)               
+Project topic: Class-imbalanced learing, Distributional robustness optimziation
+Paper: [Distributionally Robust Post-hoc Classifiers under Prior Shifts](https://openreview.net/forum?id=3KUfbI9_DQE) [First authored paper published in ICLR 2023]
+
+Student Researcher, Google Research Brain Team (March, 2022 -- May, 2022)               
+Project topic: Learning with crowd-sourced noisy labels
+Paper: [To Aggregate or Not? Learning with Separate Noisy Labels](https://arxiv.org/abs/2206.07181) [First authored paper published in KDD 2023]
 
 Publications
 ======
