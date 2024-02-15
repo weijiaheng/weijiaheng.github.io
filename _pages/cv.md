@@ -20,8 +20,10 @@ Work Experience
 ======
 Research Intern, Bytedance AI Lab (June, 2023 -- September, 2023)      
 Project topic: Evaluating Hallucination of LLM Text Generation without Using Ground-Truth      
-Paper 1: Measuring and Reducing LLM Hallucination without Gold-Standard Answers via Expertise-Weighting [Under Review]      
-Paper 2: [Human-Instruction-Free LLM Self-Alignment with Limited Samples](https://arxiv.org/abs/2401.06785) [Under Review]
+Paper 1: Measuring and Reducing LLM Hallucination without Gold-Standard Answers via Expertise-Weighting      
+[Under Review]      
+Paper 2: [Human-Instruction-Free LLM Self-Alignment with Limited Samples](https://arxiv.org/abs/2401.06785)      
+[Under Review]
 
 Student Researcher, Google Research Brain Team (June, 2022 -- September, 2022)               
 Project topic: Class-imbalanced learing, Distributional robustness optimziation      
