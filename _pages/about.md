@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a final-year CSE Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/), recipient of Jack Baskin and Peggy Downes-Baskin Fellowship 2023-2024, fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)!
 
-<span style="color:red">I am now on the job market seeking for Research Scientist / Applied Scientist positions in Trustworthy/Responsible Machine Learning or Language Models. Please feel free to reach out if you have any open positions!</span>
+<span style="color:red">I am now on the job market seeking for Research Scientist / Applied Scientist / Faculty positions in Trustworthy/Responsible Machine Learning or Language Models. Please feel free to reach out if you have any open positions!</span>
 
 My research interests lie in trustworthy machine learning & large language models, i.e., robust learning under real-world constraints (label errors in human-generated data, class-imbalanced learning, group distributional robustness), data alignment in large language models, incentive design for data collection, and generative modeling.
 
@@ -25,6 +25,12 @@ Email: jiahengwei(at)ucsc(dot)edu; Wechat: WJH_Derrick
 
 News
 ======
+[2024. 02] We have released a preprint on [Measuring and Reducing LLM Hallucination without Gold-Standard Answers via Expertise-Weighting](https://weijiaheng.github.io/). In this paper, we propose Factualness Evaluations via Weighting LLMs (FEWL), the first hallucination metric that is specifically designed for the scenario when gold-standard answers are absent. We also show how to leverage FEWL to reduce hallucination through both in-context learning and supervised fine-tuning. Last, we build a large-scale benchmark dataset to facilitate LLM hallucination research.
+
+[2024. 01] We have released a preprint on [Human-Instruction-Free LLM Self-Alignment with Limited Samples](https://arxiv.org/abs/2401.06785). In this paper, we propose an algorithm that can self-align LLMs iteratively without active human involvement.
+
+[2023. 08] We delivered a hands-on tutorial on [learning with noisy labels](https://sites.google.com/ucsc.edu/tutorial-noisylabels/home) at IJCAI 2023.
+
 [2023. 05] [docta.ai](https://docta.ai/) is online. This is a library to help you understand and curate your data.
 
 [2023. 05] One first-author paper accepted to KDD 2023.

@@ -43,11 +43,15 @@ Code
 
 * **CIFAR-N** dataset: dataloader and starter code to learn from real-world noisy labeled CIFAR datasets [[Code]](https://github.com/zwzhu-d/cifar-10-100n). The dataset website is available [here](http://noisylabels.com/).
 
-* Implementation of multi-class [Peer-Loss](https://arxiv.org/abs/1910.03231) functions [[Code]](https://github.com/weijiaheng/Multi-class-Peer-Loss-functions).
+* IJCAI-2023 Tutorial: A Hands-on Tutorial for Learning with Noisy Labels [[Code]](https://github.com/Docta-ai/IJCAI-tutorial). 
+
+* Implementation of the paper [DROPS](https://openreview.net/forum?id=3KUfbI9_DQE) [[Code]](https://github.com/weijiaheng/Drops).
+
+* Implementation of the paper [Negative-Label-Smoothing](https://proceedings.mlr.press/v162/wei22b) [[Code]](https://github.com/UCSC-REAL/negative-label-smoothing).
 
 * Implementation of the paper [Robust-f-Divergence](https://openreview.net/forum?id=WesiCoRVQ15) [[Code]](https://github.com/weijiaheng/Robust-f-divergence-measures).
 
-* Implementation of the paper [Negative-Label-Smoothing](https://arxiv.org/abs/2106.04149) [[Code]](https://github.com/UCSC-REAL/negative-label-smoothing).
+* Implementation of multi-class [Peer-Loss](https://proceedings.mlr.press/v119/liu20e) functions [[Code]](https://github.com/weijiaheng/Multi-class-Peer-Loss-functions).
 
 **Incentives in Machine Learning**
 
