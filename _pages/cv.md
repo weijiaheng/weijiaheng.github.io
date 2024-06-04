@@ -18,6 +18,12 @@ Education
 
 Work Experience
 ======
+AI Research Scientist (Senior Manager), Accenture (April, 2024 -- now)       
+Job duty:       
+Solve real-world problems via training/fine-tuning LLM and multi-modal models       
+Supervise research interns in high-quality paper publication       
+Work collaboratively with teams & leaders from both the business and technical side
+
 Research Intern, Bytedance AI Lab (June, 2023 -- September, 2023)      
 Project topic: Trustworthy Large Language Model with Limited Human Efforts       
 Paper 1: Measuring and Reducing LLM Hallucination without Gold-Standard Answers via Expertise-Weighting      
