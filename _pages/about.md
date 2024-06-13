@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year CSE Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/), recipient of Jack Baskin and Peggy Downes-Baskin Fellowship 2023-2024, fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)!
+I am currently an Advanced AI Research Scientist (Senior Manager) at [Accenture](https://www.linkedin.com/company/accenture/), and a final-year CSE Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/), recipient of Jack Baskin and Peggy Downes-Baskin Fellowship 2023-2024, fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)!
 
 My research interests lie in trustworthy machine learning & large language models, i.e., robust learning under real-world constraints (label errors in human-generated data, class-imbalanced learning, group distributional robustness), data alignment in large language models, incentive design for data collection, and generative modeling.
 
@@ -23,6 +23,8 @@ Email: jiahengwei(at)ucsc(dot)edu; Wechat: WJH_Derrick
 
 News
 ======
+[2024. 06] Our team published the [paper](https://arxiv.org/abs/2406.06559) on Fortune Analytics Language Model (FALM) which powers [fortune.com/analytics](https://fortune.com/analytics). 
+
 [2024. 04] I joined [Accenture](https://www.linkedin.com/company/accenture/) as an Advanced AI Research Scientist (Senior Manager).
 
 [2024. 02] We have released a preprint on [Measuring and Reducing LLM Hallucination without Gold-Standard Answers via Expertise-Weighting](https://weijiaheng.github.io/). In this paper, we propose Factualness Evaluations via Weighting LLMs (FEWL), the first hallucination metric that is specifically designed for the scenario when gold-standard answers are absent.
