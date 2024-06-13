@@ -17,7 +17,7 @@ Publications and Preprints
 **Large Language Models**
 1.  Harnessing Business and Media Insights with Large Language Models             
 Center for Advanced AI, Accenture & Fortune Media                
-[[paper]](https://arxiv.org/abs/2406.06559)  [[Poduct]](https://fortune.com/analytics)                 
+[[paper]](https://arxiv.org/abs/2406.06559)  [[product]](https://fortune.com/analytics)                 
 [Category: LLM Training; Supervised Fine-Tuning]            
 
 
