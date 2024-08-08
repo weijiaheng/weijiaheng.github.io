@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Advanced AI Research Scientist (Senior Manager) at [Accenture](https://www.linkedin.com/company/accenture/), and a final-year CSE Ph.D. candidate at [University of California, Santa Cruz](https://engineering.ucsc.edu/), recipient of Jack Baskin and Peggy Downes-Baskin Fellowship 2023-2024, fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)!
+I am currently an Advanced AI Research Scientist (Senior Manager) at [Accenture](https://www.linkedin.com/company/accenture/). My research interests lie in trustworthy machine learning & large language models, i.e., robust learning under real-world constraints (label errors in human-generated data, class-imbalanced learning, group distributional robustness), data alignment in large language models, incentive design for data collection, and generative modeling.
 
-My research interests lie in trustworthy machine learning & large language models, i.e., robust learning under real-world constraints (label errors in human-generated data, class-imbalanced learning, group distributional robustness), data alignment in large language models, incentive design for data collection, and generative modeling.
+I received my Ph.D. degree in Computer Science at [University of California, Santa Cruz](https://engineering.ucsc.edu/), recipient of Jack Baskin and Peggy Downes-Baskin Fellowship 2023-2024, fortunately advised by Prof. [Yang Liu](http://www.yliuu.com/)! 
 
-Previously, I received my Master of Science degree ([Data Science](https://www.brown.edu/initiatives/data-science/home)) at [Brown University](https://www.brown.edu/) and B. S. degree in Honors Math & Honors Youth ([Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young)) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+Previously, I got my Master of Science degree ([Data Science](https://www.brown.edu/initiatives/data-science/home)) at [Brown University](https://www.brown.edu/) and B. S. degree in Honors Math & Honors Youth ([Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young)) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 Contact
 ======
@@ -23,6 +23,10 @@ Email: jiahengwei(at)ucsc(dot)edu; Wechat: WJH_Derrick
 
 News
 ======
+[2024. 08] I will join the Data Science and Analytics Thrust of the Information Hub at Hong Kong University of Science and Technology (HKUST) -- Guangzhou Campus, as an assistant professor in December! 
+
+[2024. 07] I passed my PhD dissertation. 
+
 [2024. 06] Our team published the [paper](https://arxiv.org/abs/2406.06559) on Fortune Analytics Language Model (FALM) which powers [fortune.com/analytics](https://fortune.com/analytics). 
 
 [2024. 04] I joined [Accenture](https://www.linkedin.com/company/accenture/) as an Advanced AI Research Scientist (Senior Manager).

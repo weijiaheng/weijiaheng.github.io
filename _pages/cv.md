@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of California, Santa Cruz, 2019--Now
+* Ph.D in Computer Science, University of California, Santa Cruz, 2019--2024
 * M.S. in Data Science, Brown University, 2018--2019  (Graduate in advance)
 * B.S. in Honors Science (Mathematics and Applied Mathematics), Xi'an Jiaotong University, 2014--2018
 * High school in Honors Youth (Gifted Young), Xi'an Jiaotong University, 2012--2014
